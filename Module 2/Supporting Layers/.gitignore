@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Real secrets - never commit this file
+.env
+
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
