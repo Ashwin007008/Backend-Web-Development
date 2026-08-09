@@ -1,0 +1,9 @@
+{
+  "name": "backend-web-development",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node \"Module 2/Node.js Runtime Features/index.js\"",
+    "test": "node --test"
+  }
+}
